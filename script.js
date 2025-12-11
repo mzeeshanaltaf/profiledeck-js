@@ -47,7 +47,7 @@ async function getUsers(){
 
             const genderValue = document.createElement("p");
             genderValue.className = "font-bold text-lg";
-            genderValue.textContent = user.gender;
+            genderValue.textContent = user.gender.charAt(0).toUpperCase() + user.gender.slice(1);
 
             const genderLabel = document.createElement("p");
             genderLabel.className = "text-gray-400";
