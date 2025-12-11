@@ -11,9 +11,9 @@ ProfileDeck is a sleek, modern web application that allows you to view user prof
 * Hover animations on cards for better interactivity.
 * Displays detailed user information: avatar, name, email, gender, age, location.
 
-## Demo
+## Demo Link
 
-![ProfileDeck Screenshot]()
+https://mzeeshanaltaf.github.io/profiledeck-js/
 
 ## Installation
 
